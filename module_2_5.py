@@ -5,4 +5,4 @@ def get_matrix(n, m, value):
         for j in range (m):
             matrix.append(value)
     print (matrix)
-get_matrix(2, 3,19)
+get_matrix(2, 3, 19)
